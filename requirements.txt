@@ -11,7 +11,6 @@ langchain-huggingface
 langchain-groq
 langchain-ollama
 
-langgraph
 
 ollama
 
@@ -21,9 +20,6 @@ anthropic
 transformers
 huggingface-hub
 
-fastapi
-uvicorn
-pydantic
 
 python-dotenv
 
